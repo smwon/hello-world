@@ -1,2 +1,7 @@
 # hello-world
-get started
+=============
+
+Hi, Humans!
+
+Hubot here, I loke Node.js and Coffeescript
+
